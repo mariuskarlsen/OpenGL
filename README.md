@@ -1,3 +1,3 @@
 OpenGL
 
-Just compile and run. The libs is located inside the solution directory.
+Just compile and run. The libs are located inside the solution directory.
