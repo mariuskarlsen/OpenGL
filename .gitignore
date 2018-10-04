@@ -1,4 +1,1 @@
-*.suo
-*Browse.VC.db
-.vs*
-Debug*
+.vs/
